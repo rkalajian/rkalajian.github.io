@@ -274,7 +274,7 @@ header li {
 
 	background: #b300b3;
 	background: -moz-linear-gradient(top, #b300b3  0%, #800080 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b300b3), color-stop(100%,#b300b3));
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
   background: -webkit-linear-gradient(top, #b300b3  0%,#800080 100%);
   background: -o-linear-gradient(top, #b300b3  0%,#800080 100%);
   background: -ms-linear-gradient(top, #b300b3  0%,#800080 100%);
@@ -289,13 +289,13 @@ header li {
 }
 
 header li:hover {
-	background: #C3001D;
-	background: -moz-linear-gradient(top, #C3001D 0%, #950119 100%);
+	background: #800080;
+	background: -moz-linear-gradient(top, #800080 0%, #b300b3 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
-  background: -webkit-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -o-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: -ms-linear-gradient(top, #C3001D 0%,#950119 100%);
-  background: linear-gradient(to top, #C3001D 0%,#950119 100%);
+  background: -webkit-linear-gradient(top, #800080 0%,#b300b3 100%);
+  background: -o-linear-gradient(top, #800080 0%,#b300b3 100%);
+  background: -ms-linear-gradient(top, #800080 0%,#b300b3 100%);
+  background: linear-gradient(to top, #800080 0%,#b300b3 100%);
 }
 
 a.buttons {
