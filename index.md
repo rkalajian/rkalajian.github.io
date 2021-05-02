@@ -15,5 +15,12 @@ Team Expiration is a group of "older" gamers looking to play their favorite onli
 
 We also fundraise for Extra Life, so checkout our [team page](https://www.extra-life.org/index.cfm?fuseaction=donordrive.team&teamID=56801) and make a donation to help some kiddos.
 
+# A Safe Space
+
+My stream, along with all my [Discord channel](https://discord.gg/PRjtw9B) and social media feeds, are Safe Spaces. I do not tolerate violence, harassment, or hate speech. I welcome all marginalized people with an open heart.
+
 # You Are Welcome At My Table
 
+*Supporting inclusivity in gaming*
+
+You Are Welcome At My Table, or #youarewelcomeatmytable, is a brand focused on inclusivity in gaming, both tabletop and digital.
