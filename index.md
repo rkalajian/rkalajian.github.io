@@ -7,6 +7,9 @@ layout: default
 
 Catch me streaming Apex Legends, Fortnite, and more weekdays at 3 p.m. EST on [Twitch](https://www.twitch.tv/devartty).
 
+![Twitch Schedule](/assets/images/sched.jpg)
+
+
 # Team Expiration
 
 Just because we expire a lot in online games doesn't mean we have an expiration date.
