@@ -26,6 +26,6 @@ My stream, along with all my [Discord channel](https://discord.gg/PRjtw9B) and s
 
 *Supporting inclusivity in gaming*
 
-[You Are Welcome At My Table](yamamt.threadless.com), or #youarewelcomeatmytable, is a brand focused on inclusivity in gaming, both tabletop and digital. Distributed print-on-demand by Threadless, all profits currently go directly to Black Lives Matter.
+[You Are Welcome At My Table](https://yamamt.threadless.com), or #youarewelcomeatmytable, is a brand focused on inclusivity in gaming, both tabletop and digital. Distributed print-on-demand by Threadless, all profits currently go directly to Black Lives Matter.
 
 {% include yawamt-gallery.html folder="/assets/images/yawamt" %}
