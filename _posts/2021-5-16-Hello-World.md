@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World
-permalink: /2021/may/16/hello-world
+permalink: /2021/05/16/hello-world
 category: news
 ---
 
