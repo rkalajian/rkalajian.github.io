@@ -7,7 +7,7 @@ layout: default
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         {{ post.excerpt }}
-        <em>Posted in{{ post.category}}</em>
+        <em>Posted in <Strong>{{ post.category}}</Strong></em>
     </li>
   {% endfor %}
 </ul>
