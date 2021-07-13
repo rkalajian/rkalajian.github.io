@@ -5,10 +5,9 @@ layout: default
 
 # Twitch Affiliate
 
-Catch me streaming Apex Legends, Fortnite, and more weekdays at 3 p.m. EST on [Twitch](https://www.twitch.tv/devartty).
+Catch me streaming Apex Legends, Fortnite, and more weekdays at 1 p.m. EST on [Twitch](https://www.twitch.tv/devartty).
 
-![Twitch Schedule](/assets/images/sched.jpg)
-
+*Game schedule is in flux, but expect Fortnite Fridays to remain*
 
 # Team Expiration
 
